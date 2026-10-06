@@ -1,0 +1,47 @@
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE Configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Build and Distribution Packages
+build/
+dist/
+*.egg-info/
+
+# Streamlit Local Cache
+.streamlit/secrets.toml
+
+# Temporary & Log Files
+*.log
+scratch/
+tmp/
+temp/
